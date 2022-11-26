@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sorting.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/sorting.github.io/static/js/main.90a3d796.js",
+    "static/js/787.62f08748.chunk.js": "/sorting.github.io/static/js/787.62f08748.chunk.js",
+    "index.html": "/sorting.github.io/index.html",
+    "main.073c9b0a.css.map": "/sorting.github.io/static/css/main.073c9b0a.css.map",
+    "main.90a3d796.js.map": "/sorting.github.io/static/js/main.90a3d796.js.map",
+    "787.62f08748.chunk.js.map": "/sorting.github.io/static/js/787.62f08748.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.90a3d796.js"
+  ]
+}
